@@ -115,7 +115,7 @@ body {
     
     /* border colors */
     --border-light: var(--hover); /* general light border color */
-    --border: var(--activ); /* general normal border color */
+    --border: var(--active); /* general normal border color */
     --border-hover: var(--green); /* border color of panels when hovered */
     --button-border: transparent ; /* neutral border color of buttons: BG_DIM (0.1A) */
     
