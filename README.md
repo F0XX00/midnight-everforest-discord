@@ -1,2 +1,5 @@
 # midnight-everforest-discord
-Based on refact0r's theme and Perseus333 fork
+
+
+
+Based on https://github.com/Perseus333/midnight-discord-everforest/tree/master
